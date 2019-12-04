@@ -1,0 +1,39 @@
+body {
+    padding-left: 50em;
+    padding-top: 10em;
+    font-family: Artifika;
+    color: rgba(14, 124, 158, 0.774);
+    background-color: rgb(174, 246, 248) }
+  ul.navbar {
+    list-style-type: none;
+    padding: 300;
+    margin: 0;
+    position: absolute;
+    top: 10em;
+    left: 1em;
+    width: 20em;
+    height:10em }
+  h1 {
+    font-family:  Artifika; }
+  ul.navbar li {
+    background: white;
+    margin: 0.5em 0;
+    padding: 0.3em;
+    border-right: 1em solid black }
+  ul.navbar a {
+    text-decoration: none }
+  a:link {
+    color: rgba(14, 124, 158, 0.774)}
+  a:visited {
+    color: rgba(14, 124, 158, 0.774)}
+  address {
+    margin-top: 1em;
+    padding-top:50em;
+    border-top: thin dotted }
+h3 {
+    color:rgba(14, 124, 158, 0.774);
+}
+.try {
+    color:rgba(14, 124, 158, 0.774);
+    background-color: rgba(14, 124, 158, 0.774);
+}
